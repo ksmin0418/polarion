@@ -6,9 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication(scanBasePackages = "com.kimi")
 public class SpringTemplateApplication {
 	
-	/**
+	/*
+	* @wi.implements drivepilot/DP-529 Returns author of this book
 	* http://localhost/polarion/#/project/drivepilot/workitem?id=DP-529
-	**/
+	*/
 public String getAuthor() {
 return this.author;
 } 
