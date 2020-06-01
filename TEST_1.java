@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringTemplateApplication {
 	
 	/**
-	* @wi.implements elibrary/EL-101 Returns author of this book
+	* http://localhost/polarion/#/project/drivepilot/workitem?id=DP-529
 	**/
 public String getAuthor() {
 return this.author;
