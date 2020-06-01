@@ -8,6 +8,7 @@ public class SpringTemplateApplication {
 
 	public static void main(String[] args) {
 		//hellow
+		//second
 		SpringApplication.run(SpringTemplateApplication.class, args);
 	}
 
