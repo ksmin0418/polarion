@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringTemplateApplication {
 	
 	/*
-	* @wi.implements drivepilot/DP-529 Returns author of this book
+	* @wi drivepilot/DP-529 ksmksm
 	* http://localhost/polarion/#/project/drivepilot/workitem?id=DP-529
 	*/
 public String getAuthor() {
