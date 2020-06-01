@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringTemplateApplication {
 
 	public static void main(String[] args) {
+		//hellow
 		SpringApplication.run(SpringTemplateApplication.class, args);
 	}
 
